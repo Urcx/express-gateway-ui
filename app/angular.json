@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "expess-gateway-ui"
+    }
+  },
+  "defaultProject": "expess-gateway-ui",
+  "cli": {
+    "analytics": "d4a7abb8-456e-4df7-a36b-09049841d63a"
+  }
 }

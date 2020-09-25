@@ -1,0 +1,5 @@
+node_modules
+README.nd
+test
+package-lock.json
+.gitignore
